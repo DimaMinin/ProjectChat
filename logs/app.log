@@ -1,0 +1,13 @@
+2022-04-10 20:12:29.352 [main] INFO  com.Minin.server.chat.MyServer - Server has been started
+2022-04-10 20:12:29.357 [main] INFO  com.Minin.server.chat.auth.PersistentDbAuthService - Creating DB connection...
+2022-04-10 20:12:29.566 [main] INFO  com.Minin.server.chat.auth.PersistentDbAuthService - DB connection is created successfully
+2022-04-10 20:12:29.569 [main] INFO  com.Minin.server.chat.MyServer - Waiting for new client connection
+2022-04-10 20:13:29.203 [main] INFO  com.Minin.server.chat.MyServer - Client has been connected
+2022-04-10 20:13:29.209 [main] INFO  com.Minin.server.chat.MyServer - Waiting for new client connection
+2022-04-10 20:13:31.288 [pool-2-thread-1] ERROR com.Minin.server.chat.ClientHandler - Failed to process message from client
+2022-04-10 20:15:10.165 [main] INFO  com.Minin.server.chat.MyServer - Client has been connected
+2022-04-10 20:15:10.166 [main] INFO  com.Minin.server.chat.MyServer - Waiting for new client connection
+2022-04-10 20:15:25.067 [main] INFO  com.Minin.server.chat.MyServer - Client has been connected
+2022-04-10 20:15:25.069 [main] INFO  com.Minin.server.chat.MyServer - Waiting for new client connection
+2022-04-10 20:15:46.804 [pool-2-thread-2] ERROR com.Minin.server.chat.ClientHandler - Failed to process message from client
+2022-04-10 20:15:52.424 [pool-2-thread-3] ERROR com.Minin.server.chat.ClientHandler - Failed to process message from client
